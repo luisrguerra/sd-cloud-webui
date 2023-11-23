@@ -1,5 +1,7 @@
 # Stable Diffusion Web UI
 
+![chrome_O4NfkgqrEs](https://github.com/luisrguerra/sd-cloud-webui/assets/31783838/aa61510e-f521-400f-8eb2-d77327bb75b2)
+
 This is an example of a frontend interface for the Stable Diffusion SDXL api service provided by Deepinfra for generating images using artificial intelligence. The interface was designed with the focus on being simple, easy to use and with a collection of artistic styles ready to be used.
 
 ## Link
